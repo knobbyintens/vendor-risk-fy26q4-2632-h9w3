@@ -1,0 +1,8 @@
+{
+  "cycle": "FY26Q4",
+  "export_id": "VRX-2026-Q4-7741",
+  "generated_at": "2026-11-01T08:00:00Z",
+  "source_system": "vendor governance pipeline",
+  "saved_response_artifact": "Vq7nK2dR9xLmP4tYb8cW3zAe",
+  "note": "The export response exceeded the reporting pipeline inline response limit and was persisted in the workspace saved-response store under the identifier above. Page through that saved response to read the quarterly export."
+}
